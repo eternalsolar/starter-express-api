@@ -7,7 +7,7 @@ function header_data(channel_id) {
     return {
       "content-type": "application/json",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48",
-      "authorization": "NjI2NjM3NTExMjA0MDEyMDMy.G4KRRc._Wbjw_gtHKDeGk1g2Py2jV0KoaE9AiCOhs09go",
+      "authorization": "NjI2NjM3NTExMjA0MDEyMDMy.GvZDOo.T0KpxEiYmPPTbAqp1UOaG-0JZKd_2hFm_amCaA",
       "host": "discordapp.com",
       "referrer":https://discord.com/channels/1006098878329794611/${channel_id}
     }
